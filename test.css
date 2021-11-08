@@ -1,14 +1,14 @@
-.formio-tagpad-container {
+formio-tagpad-container {
   display: flex;
   flex-direction: column;
 }
 
-.formio-tagpad-image-container {
+formio-tagpad-image-container {
     max-width: 100%;
     width: unset;
     max-height: 50%;
 }
 
-.formio-tagpad-form-container {
+formio-tagpad-form-container {
     width: 100%;
 }
